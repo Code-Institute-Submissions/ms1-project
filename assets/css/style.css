@@ -26,3 +26,22 @@ header {
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
+
+.name {
+    font-family: "Cookie", sans-serif;
+    font-weight: 100;
+    font-size: 100px;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: #c47021;
+}
+
+.title {
+    font-family: "Cookie", sans-serif;
+    font-weight: 75;
+    font-size:50px;
+    margin-left: 20px;
+    margin-bottom: 90px;
+    text-align: left;
+    color:#c47021;
+}
