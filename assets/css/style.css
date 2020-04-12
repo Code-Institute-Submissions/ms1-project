@@ -1,7 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap:100,200,300,400,500,600,700');
 
+/*----------------------------------------------Colours */
+
+.bg-color-name-title {
+    background-color: #fafafa;
+}
+
+/*-----------------------------------------------Heading */
+
 header {
     margin: 0;
+}
+
+.heading{
+    margin-left: 0;
 }
 
 .logo {
