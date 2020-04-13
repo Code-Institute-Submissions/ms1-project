@@ -77,5 +77,10 @@ header {
 }
 
 /*-----------------------------------------------Footer */
-
+footer {
+    background-color: #4a4a4f;
+    color: #fff;
+    min-height: 50px;
+    margin: 0;
+}
 
