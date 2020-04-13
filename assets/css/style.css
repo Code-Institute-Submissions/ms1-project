@@ -6,6 +6,10 @@
     background-color: #fafafa;
 }
 
+.ui-menu-color {
+    background-color: #4a4a4f;
+}
+
 /*-----------------------------------------------Heading */
 
 header {
@@ -44,4 +48,30 @@ header {
     margin-bottom: 90px;
     text-align: left;
     color:#c47021;
+}
+
+#nav {
+    margin: 0
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-family: "Cookie", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+#nav a:hover {
+  background-color: #fff;
+  color: #4a4a4f;
 }
