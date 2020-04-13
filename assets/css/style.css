@@ -84,3 +84,16 @@ footer {
     margin: 0;
 }
 
+.social-links {
+    padding-top: 15px;
+}
+
+.social-links li a i {
+    color:  #fff;
+    font-size: 20px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
