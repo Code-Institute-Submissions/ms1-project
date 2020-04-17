@@ -18,7 +18,7 @@ html{
 
 body{
     min-height: 100%;
-    margin: 0;
+    margin-bottom: 70px;
     font-family: sans-serif;
     background: #fff;
 }
@@ -123,10 +123,10 @@ header {
 footer {
     background-color: #4a4a4f;
     color: #fff;
-    min-height:75px;
+    min-height:70px;
     margin: 0;
-    position: absolute;
-    margin-top: auto;
+    position: fixed;
+    bottom: 0;
 }
 
 .social-links {
