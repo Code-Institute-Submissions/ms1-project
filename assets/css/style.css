@@ -142,6 +142,54 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
+/*-----------------------------------------------Work Experience */
+
+/*.history-heading {
+    color: #fafafa;
+    margin-bottom: 50px;
+} */
+
+.timeline-item {
+    padding: 4em 2em 0em 2em;
+    position: relative;
+    color: #0a0202;
+    border-left: 1px solid;
+}
+
+.timeline-item p {
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: inline;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:after {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #c47021;
+}
+
+/* .history-items {
+    margin-bottom: 30px;
+} */
+
 /*-----------------------------------------------Contact Form */
 
 .contact-heading {
