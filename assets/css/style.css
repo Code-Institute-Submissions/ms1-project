@@ -159,7 +159,7 @@ footer {
     margin-bottom: 50px;
 }
 
-button[type="submit"] {
+button[type="button"] {
     margin-top: 25px;
     font-family: sans-serif;
 }

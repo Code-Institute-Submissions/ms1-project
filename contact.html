@@ -46,7 +46,7 @@
     <section class="container-fluid">
         <div class="row">
            <div class="col">
-                <div class="modal" data-keyboard="false" data-backdrop="static" id="Mymodal" tabindex="-1" role="dialog">
+                <div class="modal" id="staticBackdrop" data-backdrop="static"  tabindex="-1" role="dialog">
                     <div class="modal-dialog" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -73,7 +73,7 @@
                         <textarea rows="8" name="yourmessage" id="yourmessage" class="form-control" placeholder="Leave a Message" required></textarea>
                         <div class="form-row text-center">
                             <div class="col">
-                                <button type="submit" class="btn btn-success btn-lg" data-toggle="modal" data-target="#Mymodal">Send Message</button>
+                                <button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#staticBackdrop">Send Message</button>
                             </div>
                         </div>
                     </form>
