@@ -144,10 +144,10 @@ footer {
 
 /*-----------------------------------------------Work Experience */
 
-/*.history-heading {
-    color: #fafafa;
-    margin-bottom: 50px;
-} */
+.cv-heading {
+   font-size: 40px;
+    margin-bottom: 20px;
+}
 
 .timeline-item {
     padding: 4em 2em 0em 2em;
@@ -186,9 +186,10 @@ footer {
     background: #c47021;
 }
 
-/* .history-items {
-    margin-bottom: 30px;
-} */
+.experience {
+    margin: 20%;
+    margin-top: 40px;
+} 
 
 /*-----------------------------------------------Contact Form */
 
