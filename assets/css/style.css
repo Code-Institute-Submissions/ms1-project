@@ -147,7 +147,7 @@ footer {
     color: #c47021;
 }
 
-/*-----------------------------------------------Work Experience */
+/*-----------------------------------------------CV */
 
 .cv-heading {
    font-size: 40px;
@@ -188,16 +188,16 @@ footer {
     left: -12px;
     border-radius: 12px;
     content: '';
-    background:rgb(211, 166, 17);
+    background: rgb(230, 125, 5);
 }
 
 .experience {
-    margin: 40px 20% 20% 30%;
+    margin: 40px 20% 10% 30%;
 } 
 
 .cv-pdf i{
     font-size: 40px;
-    color: rgb(211, 166, 17);
+    color: rgb(230, 125, 5);
     background-color: #000;
     width: 50px;
     height: 50px;
