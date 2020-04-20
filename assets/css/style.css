@@ -239,5 +239,27 @@ button[type="submit"] {
 }
 
 .portfolio-subheading{
-    margin-bottom: 50%;
+    margin-bottom: 50px;
+}
+
+#project1{
+    background: url("../images/project1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#project2{
+    background: url("../images/project2.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.madies,
+.rino{
+    width: 240px;
+    height: 240px;
+    margin: 0 auto;
+    max-width: 100%;
 }
