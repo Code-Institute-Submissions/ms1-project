@@ -227,7 +227,7 @@ footer {
     margin-bottom: 50px;
 }
 
-button[type="button"] {
+button[type="submit"] {
     margin-top: 25px;
     font-family: sans-serif;
 }
