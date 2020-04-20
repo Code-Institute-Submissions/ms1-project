@@ -226,3 +226,13 @@ button[type="button"] {
     margin-top: 25px;
     font-family: sans-serif;
 }
+
+/*-----------------------------------------------Portfolio */
+
+.portfolio-heading{
+    font-size: 50px; 
+}
+
+.portfolio-subheading{
+    margin-bottom: 50%;
+}
