@@ -50,7 +50,7 @@ p {
 }
 
 section div p {
-    text-align: center;
+    text-align: justify;
     word-spacing: initial;
 }
 /*-----------------------------------------------Heading */
@@ -117,6 +117,11 @@ header {
 #nav a:hover {
   background-color: #fff;
   color: #4a4a4f;
+  transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+  
 }
 
 /*-----------------------------------------------Footer */
@@ -208,6 +213,10 @@ footer {
 .cv-pdf i:hover {
     
     color: #fff;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
 /*-----------------------------------------------Contact Form */
@@ -245,3 +254,7 @@ button[type="submit"] {
 img{
     margin-bottom: 10%;
 }
+
+/*-----------------------------------------------Media Queries*/
+
+@media(min-width: 600px) {}
