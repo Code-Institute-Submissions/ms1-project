@@ -100,6 +100,20 @@ header {
 }
 
 .nav-trigger-label {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 1.5em;
+    margin-right: 2em;   
+}
+
+.nav-trigger-label span,
+.nav-trigger-label span::before,
+.nav-trigger-label span::after {
+    display: block;
+    background: #4a4a4f;
+    height: 2px;
+    width: 32px;
 }
 
 #nav {
