@@ -17,11 +17,11 @@ Enjoy the ride. :rocket:
 
 This project is created to meet the needs of prospective employers and clients. Below are a couple of _User Stories_.
 
-* 'As a prospective employer, I want to be able to view your profile, any portfolio, download your CV and have some information about you and your personality so as to help accelerate our decision making process.'
+* 'As a prospective employer, I want to be able to view your profile, any portfolio, download your CV and have some information about you and your personality so as to help accelerate our decision making process and contact you.'
 
-* 'As a potential client, on visiting your site, I want be convinced that I can trust your work and judgement. I would like to see at least a previous project and/or view your skills and experiences.
+* 'As a potential client, on visiting your site, I want be convinced that I can trust your work and your judgement so I would like to see at least a previous project and/or view your skills and experiences. Finally, it would be great to easily contact you via the site.'
 
-In order to meet the requirements of the users, I decided to begin by brainstorming on what to do and how to go about it. I then started with a rough sketch of I would create (evidence attached). After this, I created the wireframe design of the website on Balsamiq (pdf file attached) before starting on the actual website construction.
+In order to meet the requirements of the users, I decided to begin by brainstorming on what to do and how to go about it. I then started with a rough sketch of what I would create (picture evidence attached, please see <>code section). After this, I created the wireframe design of the website on Balsamiq (pdf file attached) before starting on the actual website construction.
 
 # FEATURES
 
