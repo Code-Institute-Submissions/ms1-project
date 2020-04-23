@@ -93,8 +93,18 @@ header {
     color:#c47021;
 }
 
+/*-----------------------------------------------Navigation */
+
+.nav-trigger {
+    display: none;
+}
+
+.nav-trigger-label {
+}
+
 #nav {
-    margin: 0
+    margin: 0;
+    display: none;
 }
 
 .menucontainer {
@@ -123,6 +133,11 @@ header {
   -o-transition: all 0.35s ease-in-out;
   
 }
+
+.nav-trigger:checked ~ #nav {
+    display: block;
+}
+
 
 /*-----------------------------------------------Footer */
 footer {
@@ -257,4 +272,16 @@ img{
 
 /*-----------------------------------------------Media Queries*/
 
-@media(min-width: 600px) {}
+@media screen and (min-width: 992px) {
+
+}
+
+@media screen and (min-width: 768px) {
+    
+}
+
+@media screen and (min-width: 600px) {
+    #nav li {
+
+    }
+}
