@@ -104,7 +104,7 @@ header {
     top: 0;
     right: 0;
     margin-top: 1.5em;
-    margin-right: 2em;   
+    margin-right: 4em;   
 }
 
 .nav-trigger-label span,
@@ -112,9 +112,25 @@ header {
 .nav-trigger-label span::after {
     display: block;
     background: #4a4a4f;
-    height: 2px;
+    height: 4px;
     width: 32px;
+    position: relative;
 }
+
+.nav-trigger-label span::before,
+.nav-trigger-label span::after {
+    content: "";
+    position: absolute;
+}
+
+.nav-trigger-label span::before {
+    bottom: 6px;
+}
+
+.nav-trigger-label span::after {
+    top: 6px;
+}
+
 
 #nav {
     margin: 0;
@@ -287,15 +303,35 @@ img{
 /*-----------------------------------------------Media Queries*/
 
 @media screen and (min-width: 992px) {
+    #nav {
+        margin: 0;
+        display: block;
+    }
 
+    .nav-trigger-label {
+        display: none;
+    }
 }
 
 @media screen and (min-width: 768px) {
-    
+    #nav {
+        margin: 0;
+        display: block;
+    }
+   
+    .nav-trigger-label{
+        display: none;
+        }
 }
 
 @media screen and (min-width: 600px) {
-    #nav li {
-
+    .nav-trigger-label span,
+    .nav-trigger-label span::before,
+    .nav-trigger-label span::after {
+        display: block;
+        background: #4a4a4f;
+        height: 4px;
+        width: 32px;
+        position: relative;
     }
 }
