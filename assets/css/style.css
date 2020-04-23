@@ -21,6 +21,7 @@ body{
     margin-bottom: 70px;
     font-family: sans-serif;
     background: #fff;
+    overflow-x: hidden;
 }
 
 h1,
@@ -51,7 +52,10 @@ p {
 
 section div p {
     text-align: justify;
-    word-spacing: initial;
+}
+
+hr {
+    padding-bottom: 20px;
 }
 /*-----------------------------------------------Heading */
 
@@ -145,7 +149,7 @@ header {
     font-family: "Cookie", sans-serif;
     font-size: 30px;
     text-align: center;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -174,7 +178,7 @@ footer {
     background-color: #4a4a4f;
     color: #fff;
     min-height:70px;
-    margin: 0;
+    margin: 0 auto;
     position: fixed;
     bottom: 0;
 }
@@ -302,6 +306,17 @@ img{
 
 /*-----------------------------------------------Media Queries*/
 
+@media screen and (min-width: 1400px) {
+    #nav {
+        margin: 0;
+        display: block;
+    }
+
+    .nav-trigger-label {
+        display: none;
+    }
+}
+
 @media screen and (min-width: 992px) {
     #nav {
         margin: 0;
@@ -324,7 +339,7 @@ img{
         }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 576px) {
     .nav-trigger-label span,
     .nav-trigger-label span::before,
     .nav-trigger-label span::after {
@@ -333,5 +348,19 @@ img{
         height: 4px;
         width: 32px;
         position: relative;
+    }
+
+    .nav-trigger-label span::before,
+    .nav-trigger-label span::after {
+        content: "";
+        position: absolute;
+}
+
+    .nav-trigger-label span::before {
+        bottom: 7px;
+}
+
+    .nav-trigger-label span::after {
+        top: 7px;
     }
 }
