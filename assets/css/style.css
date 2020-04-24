@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap:100,200,300,400,500,600,700');
 
-/*----------------------------------------------Colours */
+/*----------------------------------------------Colours (Credits: Inspired by Code Institute)*/
 
 .bg-color-name-title {
     background-color: #fafafa;
@@ -10,7 +10,7 @@
     background-color: #4a4a4f;
 }
 
-/*-----------------------------------------------General */
+/*-----------------------------------------------General (Credits: Influenced based on research & Code Institute)*/
 
 html{
     height: 100%;
@@ -58,7 +58,7 @@ section div p {
 hr {
     padding-bottom: 20px;
 }
-/*-----------------------------------------------Heading */
+/*-----------------------------------------------Heading (Credits: Influenced based on research & Code Institute)*/
 
 header {
     margin: 0;
@@ -98,7 +98,7 @@ header {
     color:#c47021;
 }
 
-/*-----------------------------------------------Navigation */
+/*-----------------------------------------------Navigation (Credits: Kevin Powell and Code Institute)*/
 
 .nav-trigger {
     display: none;
@@ -174,7 +174,7 @@ header {
 }
 
 
-/*-----------------------------------------------Footer */
+/*-----------------------------------------------Footer (Credits: Code Institute)*/
 footer {
     background-color: #4a4a4f;
     color: #fff;
@@ -202,10 +202,10 @@ footer {
     color: #c47021;
 }
 
-/*-----------------------------------------------CV */
+/*-----------------------------------------------CV (Credits: Inspired by Code Institute)*/
 
 .cv-heading {
-   font-size: 40px;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 
@@ -269,7 +269,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-/*-----------------------------------------------Contact Form */
+/*-----------------------------------------------Contact Form (Credits: Inspired by Code Institute)*/
 
 .contact-heading {
     font-family: "Cookie", sans-serif;
@@ -291,7 +291,7 @@ button[type="submit"] {
     font-family: sans-serif;
 }
 
-/*-----------------------------------------------Portfolio */
+/*-----------------------------------------------Portfolio (Credits: Influenced by https://www.devonstank.com/portfolio)*/
 
 .portfolio-heading{
     font-size: 50px; 
@@ -305,7 +305,8 @@ img{
     margin-bottom: 10%;
 }
 
-/*-----------------------------------------------Media Queries*/
+/*-----------------------------------------------Media Queries 
+(Credits: Influenced by extensive research; Code Institute inclusive)*/
 
 @media screen and (min-width: 1400px) {
     #nav {
