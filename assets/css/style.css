@@ -329,7 +329,7 @@ img{
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
     #nav {
         margin: 0;
         display: block;
@@ -354,7 +354,7 @@ img{
 
     .contact-form {
     margin: 0 auto;
-    max-width: 70%;
+    max-width: 60%;
     margin-bottom: 50px;
     }
 }
