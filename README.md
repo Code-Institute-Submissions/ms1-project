@@ -11,9 +11,9 @@ As we may already know, Bootstrap is one of the world’s most popular framework
 
 I will be incorporating Bootstrap as the base structure in order to help me easily achieve one of the most important requirements of this project; responsive mobile-first design. I will then  be tweaking the Bootstrap framework used in my HTML5 code, by styling them with CSS3 in order to achieve my desired outcome. 
 
-Enjoy the ride. :rocket:
+Thank you and enjoy the ride. :rocket:
 
-# UX
+## UX
 
 This project is created to meet the needs of prospective employers and clients. Below are a couple of _User Stories_.
 
@@ -23,7 +23,32 @@ This project is created to meet the needs of prospective employers and clients. 
 
 In order to meet the requirements of the users, I decided to begin by brainstorming on what to do and how to go about it. I then started with a rough sketch of what I would create (picture evidence attached, please see <>code section). After this, I created the wireframe design of the website on Balsamiq (pdf file attached) before starting on the actual website construction.
 
-# FEATURES
+## Features
+
+Existing Features
+
+Features to be Implemented
+
+
+##Technologies Used
+
+
+
+
+## Testing
+
+
+
+
+
+
+## Deployment
+
+
+
+
+
+
 
 
 
@@ -31,13 +56,18 @@ In order to meet the requirements of the users, I decided to begin by brainstorm
 --------
 
 
-### References
+### Credits & References
 
+Content
 * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
+Media
+
+Acknowledgements
 
 
-Thank you for visiting!  :simple_smile:
+
+Thank you for visiting!  :simplesmile:
 
 
 
