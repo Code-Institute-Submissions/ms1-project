@@ -418,3 +418,11 @@ img{
     margin-bottom: 40px;
     }
 }
+
+@media (min-width: 576px){
+    .col-sm-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 70%;
+        max-width: 100%;
+    }
+}
