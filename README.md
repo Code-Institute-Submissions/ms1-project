@@ -98,7 +98,7 @@ For my testings, I carried out the following:
   + I tested the download link button and it works as expected. It opened a new browser displaying my CV
   + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as       expected so my site remained opened in the main window.
   
-3. 1. For the **Portfolio Page**, I carried out the following tests on all devices (Mobile, tablet, laptop, desktop):
+3. For the **Portfolio Page**, I carried out the following tests on all devices (Mobile, tablet, laptop, desktop):
   + I clicked on the Avatar logo to ensure it links to the Home Page.
   + I then tested the Nav Bar link; "Home", "C.V", "Portfolio" and "Contact". They all work with no broken links.
   + I also tested them by using the browser back and forward arrows and they all work perfectly.
@@ -117,23 +117,22 @@ I initially had an issue with the success message appearing. It appears and disa
   + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as       expected so my site remained opened in the main window.
 
 + **UX Testing**
-To validate the user experience, I asked a friend and two family members to help. They were told the user stories and asked to act as a potential client or employer so as to help give an unbias and accurate feedback.
-
-1. They were to try using all the links, buttons and the contact form. For the contact form, they were to test its functionality with this process:
-  i. Go to the "Contact" page
-  ii. Try to submit the empty form and verify that an error message about the required fields appears.
-  iii. Try to submit the form with an invalid email address and verify that a relevant error message appears.
-  iv. Try to submit the form with all inputs valid and verify that a success message appears.
+  + To validate the user experience, I asked a friend and two family members to help. They were told the user stories and asked to act as a potential client or employer so as to help give an unbias and accurate feedback.
+  1. They were to try using all the links, buttons and the contact form. For the contact form, they were to test its functionality with this process:
+    + Go to the "Contact" page
+    + Try to submit the empty form and verify that an error message about the required fields appears.
+    + Try to submit the form with an invalid email address and verify that a relevant error message appears.
+    + Try to submit the form with all inputs valid and verify that a success message appears.
  
-2. They all came back with different feedbacks as follows:
-  i. They collectively observed the disappearing success message prior to fixing it.
-  ii. Two of then commented on the CV font, that it was not readable, so I decided to put a fullstop between the C and the V to make it    C.V instead of the initial CV.
-  iii. They commented on the download button that it would be good to have a label, so I decided to add "Download" on hover.
-  iv. They pointed out some grammatical errors of which I did my best to correct.
-  v. They pointed out the broken image links, of which I was able to successfully fix.
-  vi. Overall, they were happy with the layout, colour scheme, portfolio, responsiveness and easy access to the required information.
-  vii. Viewing on different sizes and browsers were also positive as expected.They were able to navigate easily.
-  viii. They commented that it was really easy to use.
+  2. They all came back with different feedbacks as follows:
+    + They collectively observed the disappearing success message prior to fixing it.
+    + Two of then commented on the CV font, that it was not readable, so I decided to put a fullstop between the C and the V to make it    C.V instead of the initial CV.
+    + They commented on the download button that it would be good to have a label, so I decided to add "Download" on hover.
+    + They pointed out some grammatical errors of which I did my best to correct.
+    + They pointed out the broken image links, of which I was able to successfully fix.
+    + Overall, they were happy with the layout, colour scheme, portfolio, responsiveness and easy access to the required information.
+    + Viewing on different sizes and browsers were also positive as expected.They were able to navigate easily.
+    + They commented that it was really easy to use.
 
 + **HTML5 Testing**
 1. For my **HTML5 code testing**, I visited [The W3C Markup Validation Service](https://validator.w3.org/)
