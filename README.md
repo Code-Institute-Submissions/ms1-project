@@ -160,7 +160,11 @@ To deploy my site, I made use of the GitHub hosting platform; GitHub Pages follo
   + Your site is published at https://dorcas-amoo.github.io/ms1-project/
   
 To run my code **locally**, I followed this process:
-1.
+1. From [GitHub](https://github.com/, I clicked on the "Clone/Download" button.
+2. Then I choose "Download Zip" (The download starts).
+3. After the download is complete, I open the zip folder by double clicking to access my created pages.
+4. The pages (index, cv, portfolio and contact) then launches on my chosen browser. 
+**Please note:** *To view all pages, you may have to double-click to open then from the explorer individually.*
 
 To run my code using **Gitpod**, I follow this process:
 1. I ensure I am logged into my **Gitpod Workspaces** (Not click on the *Gitpod* button on *GitHub* as this opens a new workspace).
