@@ -22,7 +22,7 @@ This project is created to meet the needs of prospective employers and clients. 
 
 * 'As a potential client, on visiting your site, I want to be convinced that I can trust your work and judgement, so I would like to see at least a previous project and/or view your skills and experiences. Finally, it would be great to easily contact you via the site.'
 
-* As a budding full stack developer, I wanted a personal profile website to showcase what I am able to do to potential clients and employers.
+* 'As a budding full stack developer, I wanted a personal profile website to showcase what I am able to do to potential clients and employers.'
 
 In order to meet the requirements of the users, I decided to begin by brainstorming on what to do and how to go about it. I then started with a rough sketch of what I would like to create (picture evidence attached, please see <>Code section under '*Initialsketch*'). After this, I created the wireframe design of the website on Balsamiq (pdf file attached, please see <>Code section) before starting on the actual website construction. I had an initial idea as seen in the sketches. However, after my first meeting with my Mentor, he helped me to have a real think about my idea and suggested I visit other sites for inspiration. I took his advice on board, of which I am very grateful for. Visiting other sites really helped me to have a better idea and largely influenced my final decision and I am pleased with the outcome so far.
 
@@ -57,7 +57,7 @@ iii. For my contact page, I plan to link the form to an actual email address so 
 
 iv. On all pages, I would like to include more information in the footer of my site such as additional navigation to other pages on the site, a copyrighted signature, and more social links. 
 
-I would also like to add some animations and effects so as to bring the site more alive and make it more interesting upon visiting, for a better and more robust user experience. As I progress, I would like to have a blog page and a gallery. 
+I would also like to add some animations and effects so as to bring the site more alive and make it more interesting for a better and more robust user experience. As I progress, I would like to have a blog page and a gallery. 
 
 
 ## Technologies Used
@@ -74,65 +74,66 @@ The following technologies were used to achieve the requirements of this project
   
 
 ## Testing
-For my testings, I used the following methods:
+For my testings, I carried out the following:
 
-+ **Responsive Testing**
++ **Responsiveness Testing**
 1. During construction, I regularly test the site against its *Responsiveness* by clicking on **Inspect** to view the developer tool.
 2. I then check the layout by clicking on the Ipad, the Iphone and select other devices to view.
-3. I also adjust the pane to view the point at which the design changes to a mobile, tablet, laptop or desktop view.
-4. This process helped me to adjust my media queries easily in order to achieve my desired outcome.
+3. I also adjusted the pane to view the point at which the design changes to a mobile, tablet, laptop or desktop view.
+4. This process helped me to adjust my media queries easily, in order to achieve my desired outcome.
 5. In the mobile view, the *Navigation burger bar* was tested for all pages and they all work as expected.
-  + To view **Navbar menu** in mobile view, I click on the **burger bar** and the Navbar appears after the Name and Title (Dorcas Olomofe - Fullstack Developer).
+  + To view **Navbar menu** in mobile view, I clicked on the **burger bar** and the Navbar appears after the Name and Title (Dorcas Olomofe - Fullstack Developer).
 
 + **Pages Testing**
 1. For the **Home Page**, I carried out the following tests on all devices (Mobile, tablet, laptop, desktop):
   + I clicked on the Avatar logo to ensure it links to the Home Page.
-  + I then tested the Nav Bar links; 'Home', 'C.V', 'Portfolio' and 'Contact'. They all work with no broken links.
+  + I then tested the Nav Bar links; "Home", "C.V", "Portfolio" and "Contact". They all work with no broken links.
   + I also tested them by using the browser back and forward arrows and they all work perfectly.
-  + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as       expected so my site was still opened in the main window.
+  + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as       expected so my site remained opened in the main window.
 
 2. For the **C.V Page**, I carried out the following tests on all devices (Mobile, tablet, laptop, desktop):
   + I clicked on the Avatar logo to ensure it links to the Home Page.
-  + I then tested the Nav Bar links; 'Home', 'C.V', 'Portfolio' and 'Contact'. They all work with no broken links.
+  + I then tested the Nav Bar links; "Home", "C.V", "Portfolio" and "Contact". They all work with no broken links.
   + I also tested them by using the browser back and forward arrows and they all work perfectly.
   + I tested the download link button and it works as expected. It opened a new browser displaying my CV
-  + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as       expected so my site was still opened in the main window.
+  + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as       expected so my site remained opened in the main window.
   
 3. 1. For the **Portfolio Page**, I carried out the following tests on all devices (Mobile, tablet, laptop, desktop):
   + I clicked on the Avatar logo to ensure it links to the Home Page.
-  + I then tested the Nav Bar link; 'Home', 'C.V', 'Portfolio' and 'Contact'. They all work with no broken links.
+  + I then tested the Nav Bar link; "Home", "C.V", "Portfolio" and "Contact". They all work with no broken links.
   + I also tested them by using the browser back and forward arrows and they all work perfectly.
   + I tested the project images' thumbnails and the sites were opened in a new window as expected. I initially had a challenge with this page as the images were not displaying, it was only displaying the alt attribute. However, I was able to fix the issue after asking questions on how to fix it from a friend who is a developer. 
-  + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as    expected so my site was still opened in the main window.
+  + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as    expected and my site remained opened in the main window.
 
 4. For the **Contact Page**, I carried out the following tests on all devices (Mobile, tablet, laptop, desktop):
   + I clicked on the Avatar logo to ensure it links to the Home Page.
-  + I then tested the Nav Bar links; 'Home', 'C.V', 'Portfolio' and 'Contact'. They all work with no broken links.
+  + I then tested the Nav Bar links; "Home", "C.V", "Portfolio" and "Contact". They all work with no broken links.
   + I also tested them by using the browser back and forward arrows and they all work perfectly.
   + I tested the contact form and send button by doing the following:
     + I tried to submit the empty form and verify that an error message about the required fields appears, it did.
     + I tried to submit the form with an invalid email address and verify that a relevant error message appears, it did.
     + I tried to submit the form with all inputs valid and verify that a modal success message appears, it did.
 I initially had an issue with the success message appearing. It appears and disappears so quickly. I discussed this issue with my Mentor who guided me on how to resolve te issue by using Javascript.
-  + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as       expected so my site was still opened in the main window.
+  + To test the *Social Links*, I clicked on each of them and they took me to the expected sites and opened these in a new window as       expected so my site remained opened in the main window.
 
 + **UX Testing**
-To validate the user experience, I asked a friend and two family members to help. They were told the user stories and asked to ask as a potential client or employer so as to help give an unbias feedback.
+To validate the user experience, I asked a friend and two family members to help. They were told the user stories and asked to act as a potential client or employer so as to help give an unbias and accurate feedback.
 
-They were to try using all the links, buttons and the contact form. For the contact form, they were to test its functionality with these process:
+1. They were to try using all the links, buttons and the contact form. For the contact form, they were to test its functionality with this process:
   i. Go to the "Contact" page
- ii. Try to submit the empty form and verify that an error message about the required fields appears
-iii. Try to submit the form with an invalid email address and verify that a relevant error message appears
- iv. Try to submit the form with all inputs valid and verify that a success message appears.
+  ii. Try to submit the empty form and verify that an error message about the required fields appears.
+  iii. Try to submit the form with an invalid email address and verify that a relevant error message appears.
+  iv. Try to submit the form with all inputs valid and verify that a success message appears.
  
- They all come back with different feedbacks as follows:
- 
- + They collectively observed the disappearing success message prior to fixing it.
- + Two of then commented on the CV font, that it was not readable, so I decided to put a fullstop between the C and the V to make it C.V instead of the initial CV.
- + They commented on the download button that it would be good to have a label, so I decided to add 'Download' on hover.
- + They pointed out some grammatical errors of which I did my best to correct.
- + Overall, they were happy with the layout, colour scheme, portfolio, responsiveness and easy access to the information needed.
- + Viewing on different sizes and browsers were also positive as expected.
+2. They all came back with different feedbacks as follows:
+  i. They collectively observed the disappearing success message prior to fixing it.
+  ii. Two of then commented on the CV font, that it was not readable, so I decided to put a fullstop between the C and the V to make it    C.V instead of the initial CV.
+  iii. They commented on the download button that it would be good to have a label, so I decided to add "Download" on hover.
+  iv. They pointed out some grammatical errors of which I did my best to correct.
+  v. They pointed out the broken image links, of which I was able to successfully fix.
+  vi. Overall, they were happy with the layout, colour scheme, portfolio, responsiveness and easy access to the required information.
+  vii. Viewing on different sizes and browsers were also positive as expected.They were able to navigate easily.
+  viii. They commented that it was really easy to use.
 
 + **HTML5 Testing**
 1. For my **HTML5 code testing**, I visited [The W3C Markup Validation Service](https://validator.w3.org/)
@@ -142,9 +143,12 @@ iii. Try to submit the form with an invalid email address and verify that a rele
 + **CSS3 and Browsers Testing**
 1. For my **CSS3 code testing**, I visited [The W3C CSS Validation Service - Jigsaw](https://jigsaw.w3.org/css-validator/)
 2. I chose *Validate by Direct Input* option, copied and pasted my CSS codes in the available pane and clicked **Check*
-3. I then got a message stating, "Sorry! We found the following errors (4)". There were also warnings which were browser compatibilty related (Please refer to <>Code section for sample evidence).
-4. To solve the errors, I went into my css code and changed the font-weight to 100 after a research on w3schools (Please see reference). However, I did nothing to the warnings as I did not have any issues opening or viewing the site on the different browsers that I used namely: **Internet Explorer**, **Mozilla Firefox**, **Google Chrome**, **Safari** and other different mobile browsers, namely, **Android** and **iOS.** On all of these platforms, I have a spick-and-span experience.
+3. I then got a message stating, "Sorry! We found the following errors (4)". There were also warnings which were browser compatibilty related (Please refer to <>Code section above for sample evidence).
+4. To solve the errors, I went into my CSS code and changed the font-weight to 100 after a research on w3schools (Please see reference). However, I did nothing to the warnings as I did not have any issues opening or viewing the site on the different browsers that I used namely: **Internet Explorer**, **Mozilla Firefox**, **Google Chrome**, **Safari** and other different mobile browsers, namely, **Android** and **iOS.** On all of these platforms, I had a spick-and-span experience.
+5. I then copied my code and pasted it in to be validated and got the message "Congratulations! No errors found" (Evidence attached in the <>Code section above).
 
++ **JavaScript Testing**
+  + To ensure the JavaScript codes are working, I carried out the test as done on the contact form and send button. (Please see testing under **Contact Page** above)
 
 ## Deployment
 
@@ -183,7 +187,7 @@ I carried out an extensive research as this project had been a challenging yet e
   + Images: [https://getbootstrap.com/docs/4.4/content/images/]
   
 + [Google Fonts](https://fonts.google.com/)
-  + Cookie: [https://fonts.google.com/specimen/Cookie?query=cooki]
+  + Cookie Font: [https://fonts.google.com/specimen/Cookie?query=cooki]
      
 + [Stackoverflow](https://stackoverflow.com/)
   + Aria Attributes: [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes]
@@ -223,10 +227,10 @@ I got inspiration for my project from the following:
 + [Devon Stank](https://www.devonstank.com/)
 + [Jim](https://jimramsden.com/#)
 
-Many thanks also to my Mentor **Dick Vlaanderen** for his guidance and support. Also to my friend and family who helped to test the usability and tackle some issues.
+Many thanks to my Mentor **Dick Vlaanderen** for his guidance and support. Also to my friend and family who helped to test the usability and gave valuable feedbacks to assist in tackling some relevant issues.
+
+Thank you to the Code Institute Team!
 
 
 
-
-
-Thank you for visiting! :smile:
+Finally, thank you for visiting! :smile:
