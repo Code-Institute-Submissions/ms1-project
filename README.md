@@ -97,26 +97,54 @@ I carried out an extensive research as this project had been a challenging but e
 
 ### Content
 + [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-  + [https://getbootstrap.com/docs/4.0/layout/grid/][1]
-  + [https://getbootstrap.com/docs/4.0/layout/overview/][2]
-  + [https://getbootstrap.com/docs/4.4/components/modal/][3]
-  + [https://getbootstrap.com/docs/4.4/content/images/][4]
+  + BootstrapCDN [https://getbootstrap.com/docs/4.3/getting-started/download/] [https://www.bootstrapcdn.com/]
+  + Grid System [https://getbootstrap.com/docs/4.0/layout/grid/]
+  + Layout [https://getbootstrap.com/docs/4.0/layout/overview/]
+  + NavBar [https://getbootstrap.com/docs/4.4/components/navbar/]
+  + Modal [https://getbootstrap.com/docs/4.4/components/modal/]
+  + Images [https://getbootstrap.com/docs/4.4/content/images/]
+  
++ [Google Fonts](https://fonts.google.com/)
+  + Cookie [https://fonts.google.com/specimen/Cookie?query=cooki]
      
 + [Stackoverflow](https://stackoverflow.com/)
-  + [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes][1]
-  + [https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap][2]
-  + [https://stackoverflow.com/questions/19055796/bootstrap-3-floating-footer/19060972][3]
-     
+  + Aria Attributes [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes]
+  + Bootstrap Grid [https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap]
+  + Footer [https://stackoverflow.com/questions/19055796/bootstrap-3-floating-footer/19060972]
+  + NavBar [https://stackoverflow.com/questions/31152850/implementing-navigation-drawer-bootstrap]
+  
++ [W3Schools](https://www.w3schools.com/)
+  + Word-Spacing [https://www.w3schools.com/cssref/pr_text_word-spacing.asp]
+  + Pixel vs Em [https://www.w3schools.com/tags/ref_pxtoemconversion.asp]
+  + Transition [https://www.w3schools.com/cssref/css3_pr_transition-property.asp]
+  + MediaQueries [https://www.w3schools.com/css/css_rwd_mediaqueries.asp]
+  + MediaQueries [https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp]
+  + Overflow [https://www.w3schools.com/cssref/css3_pr_overflow-x.asp]
+  + Font-Weight [https://www.w3schools.com/cssref/pr_font_weight.asp]
+  
++ **Tutorials**
+  + Code Institute for HTML, CSS, Bootstrap & UX [https://courses.codeinstitute.net/program/FullstackWebDeveloper]
+  + Kevin Powell for Responsive Navigation Bar [https://www.youtube.com/watch?v=8QKOaTYvYUA]
+  + Coding Passive Income for Modal [https://www.youtube.com/watch?v=cCxcxRw9j_s]
+  + Steve Griffith for GitHub README [https://www.youtube.com/watch?v=eJojC3lSkwg&t=209s]
+  
++ **Others**
+  + [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines]
+  + [https://fontawesome.com/] 
+  + [https://fontawesome.com/icons?d=gallery]
+   
 ### Media
-Images on the Portfolio page were from the following:
+Images on the Portfolio page and for my wireframe were from the following:
 + [Madies](http://madies.mx/)
 + [Rino & Pelle](https://www.rino-pelle.com/)
++ [Balsamiq](https://balsamiq.com/)
 
 ### Acknowledgements
 I got inspiration for my project from the following:
 + [Code Instute's Project Rosie](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/36e3366dbdaf40fd852994c51f9f8595/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%4036e3366dbdaf40fd852994c51f9f8595)
 + [Devon Stank](https://www.devonstank.com/)
 + [Jim](https://jimramsden.com/#)
+
 
 
 
