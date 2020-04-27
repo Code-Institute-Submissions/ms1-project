@@ -158,8 +158,11 @@ To deploy my site, I made use of the GitHub hosting platform; GitHub Pages follo
 4. From **GitHub Pages**, under **Source**, I clicked on the *dropdown arrow button* and selected **master branch** from the list.
 5. Then on top of the **GitHub Pages** section, it states the following:
   + Your site is published at https://dorcas-amoo.github.io/ms1-project/
+  
+To run my code **locally**, I followed this process:
+1.
 
-To run my code locally; using **Gitpod**, I follow this process:
+To run my code using **Gitpod**, I follow this process:
 1. I ensure I am logged into my **Gitpod Workspaces** (Not click on the *Gitpod* button on *GitHub* as this opens a new workspace).
 2. I start my **Dorcas-Amoo/ms1-project - master** workspace and wait for it to initialize.
 3. Once opened, I click on the page file I want to access from my list of files from the left pane.
