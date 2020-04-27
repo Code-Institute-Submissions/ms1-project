@@ -96,27 +96,29 @@ The following technologies were used to achieve the requirements of this project
 I carried out an extensive research as this project had been a challenging but enjoyable one. It had been a productive learning curve too. Please see below, links to sites that contributed to the success of the entire project at every turn. Thank you.
 
 ### Content
-  * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-     ..* [https://getbootstrap.com/docs/4.0/layout/grid/][1]
-     ..* [https://getbootstrap.com/docs/4.0/layout/overview/][2]
-     ..* [https://getbootstrap.com/docs/4.4/components/modal/][3]
-     ..* [https://getbootstrap.com/docs/4.4/content/images/][4]
+     1. [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+          * [https://getbootstrap.com/docs/4.0/layout/grid/][1]
+          * [https://getbootstrap.com/docs/4.0/layout/overview/][2]
+          * [https://getbootstrap.com/docs/4.4/components/modal/][3]
+          * [https://getbootstrap.com/docs/4.4/content/images/][4]
      
-  * [Stackoverflow](https://stackoverflow.com/)
-     ..* [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes][1]
-     ..* [https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap][2]
-     ..* [https://stackoverflow.com/questions/19055796/bootstrap-3-floating-footer/19060972][3]
+     2. [Stackoverflow](https://stackoverflow.com/)
+          * [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes][1]
+          * [https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap][2]
+          * [https://stackoverflow.com/questions/19055796/bootstrap-3-floating-footer/19060972][3]
      
 ### Media
-  * Images on the Portfolio page were from the following:
-    ..* [Madies](http://madies.mx/)
-    ..* [Rino & Pelle](https://www.rino-pelle.com/)
+     Images on the Portfolio page were from the following:
+          * [Madies](http://madies.mx/)
+          * [Rino & Pelle](https://www.rino-pelle.com/)
 
 ### Acknowledgements
-  * I got inspiration for my project from the following:
-    ..* [Code Instute's Project Rosie](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/36e3366dbdaf40fd852994c51f9f8595/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%4036e3366dbdaf40fd852994c51f9f8595)
-    ..* [Devon Stank](https://www.devonstank.com/)
-    ..* [Jim](https://jimramsden.com/#)
+     I got inspiration for my project from the following:
+          * [Code Instute's Project Rosie](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/36e3366dbdaf40fd852994c51f9f8595/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%4036e3366dbdaf40fd852994c51f9f8595)
+          * [Devon Stank](https://www.devonstank.com/)
+          * [Jim](https://jimramsden.com/#)
+
+
 
 
 Thank you for visiting!
