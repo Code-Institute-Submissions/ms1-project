@@ -61,14 +61,14 @@ I would also like to add some animations and effects so as to bring the site mor
 ## Technologies Used
 The following technologies were used to achieve the requirements of this project:
 
-* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-     ..* This was used as the base structure to achieve a responsive site.
-* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-     ..* CSS3 was used to tweak the bootstrap framework to my desired outcome.
-* [HTML5](https://en.wikipedia.org/wiki/HTML5)
-    ..* HTML5 was used as the markup language to structure and present my website on the Web.
-* [Javascript](https://www.w3schools.com/js/)
-    ..* I used this just to achieve the modal which helps give feedback to the user after form submission.
++ [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+  + This was used as the base structure to achieve a responsive site.
++ [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+  + CSS3 was used to tweak the bootstrap framework to my desired outcome.
++ [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  + HTML5 was used as the markup language to structure and present my website on the Web.
++ [Javascript](https://www.w3schools.com/js/)
+  + I used this just to achieve the modal which helps give feedback to the user after form submission.
 
 ## Testing
 
@@ -97,26 +97,26 @@ I carried out an extensive research as this project had been a challenging but e
 
 ### Content
      1. [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-          * [https://getbootstrap.com/docs/4.0/layout/grid/][1]
-          * [https://getbootstrap.com/docs/4.0/layout/overview/][2]
-          * [https://getbootstrap.com/docs/4.4/components/modal/][3]
-          * [https://getbootstrap.com/docs/4.4/content/images/][4]
+       + [https://getbootstrap.com/docs/4.0/layout/grid/][1]
+       + [https://getbootstrap.com/docs/4.0/layout/overview/][2]
+       + [https://getbootstrap.com/docs/4.4/components/modal/][3]
+       + [https://getbootstrap.com/docs/4.4/content/images/][4]
      
      2. [Stackoverflow](https://stackoverflow.com/)
-          * [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes][1]
-          * [https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap][2]
-          * [https://stackoverflow.com/questions/19055796/bootstrap-3-floating-footer/19060972][3]
+       + [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes][1]
+       + [https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap][2]
+       + [https://stackoverflow.com/questions/19055796/bootstrap-3-floating-footer/19060972][3]
      
 ### Media
      Images on the Portfolio page were from the following:
-          * [Madies](http://madies.mx/)
-          * [Rino & Pelle](https://www.rino-pelle.com/)
+       + [Madies](http://madies.mx/)
+       + [Rino & Pelle](https://www.rino-pelle.com/)
 
 ### Acknowledgements
      I got inspiration for my project from the following:
-          * [Code Instute's Project Rosie](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/36e3366dbdaf40fd852994c51f9f8595/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%4036e3366dbdaf40fd852994c51f9f8595)
-          * [Devon Stank](https://www.devonstank.com/)
-          * [Jim](https://jimramsden.com/#)
+       + [Code Instute's Project Rosie](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/36e3366dbdaf40fd852994c51f9f8595/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%4036e3366dbdaf40fd852994c51f9f8595)
+       + [Devon Stank](https://www.devonstank.com/)
+       + [Jim](https://jimramsden.com/#)
 
 
 
