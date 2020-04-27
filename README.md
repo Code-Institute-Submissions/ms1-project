@@ -13,6 +13,7 @@ I will be incorporating Bootstrap as the base structure in order to help me easi
 
 Thank you and enjoy the ride. :rocket:
 
+
 ## UX
 
 This project is created to meet the needs of prospective employers and clients. Below are a couple of _User Stories_.
@@ -24,6 +25,7 @@ This project is created to meet the needs of prospective employers and clients. 
 * As a budding full stack developer, I wanted a personal profile website to showcase what I am able to do to potential clients and employers.
 
 In order to meet the requirements of the users, I decided to begin by brainstorming on what to do and how to go about it. I then started with a rough sketch of what I would like to create (picture evidence attached, please see <>code section). After this, I created the wireframe design of the website on Balsamiq (pdf file attached) before starting on the actual website construction. I had an initial idea as seen in the sketches. However, after my first meeting with my Mentor, he helped me to have a real think about my idea and suggested I visit other sites for inspiration. I took his advice on board, of which I am very grateful for. Visiting other sites really helped me to have a better idea and largely influenced my final decision and I am pleased with the outcome so far.
+
 
 ## Features
 
@@ -69,64 +71,72 @@ The following technologies were used to achieve the requirements of this project
   + HTML5 was used as the markup language to structure and present my website on the Web.
 + [Javascript](https://www.w3schools.com/js/)
   + I used this just to achieve the modal which helps give feedback to the user after form submission.
+  
 
 ## Testing
 
 
 
 
-
-
 ## Deployment
 
+To deploy my site, I made use of the GitHub hosting platform; GitHub Pages following this process:
+1. I logged into [GitHub](https://github.com/).
+2. Under repositories, from the list of projects, I clicked on **Dorcas-Amoo/ms1-project** then **Settings**.
+3. Under **Settings**, I scroled down to **GitHub Pages**.
+4. From **GitHub Pages**, under **Source**, I clicked on the *dropdown arrow* and selected **master branch** from the list.
+5. Then on top of the **GitHub Pages** section, it states the following:
+  + Your site is published at https://dorcas-amoo.github.io/ms1-project/
 
+To run my code locally; using **Gitpod**, I follow this process:
+1. I ensure I am logged into my **Gitpod Workspaces** (Not click on the *Gitpod* button on *GitHub* as this opens a new workspace).
+2. I start my **Dorcas-Amoo/ms1-project - master** workspace and wait for it to initialize.
+3. Once opened, I click on the page file I want to access from my list of files from the left pane.
+4. In the terminal pane, I then type in the following: *python3 -m http.server* and press enter on the keyboard.
+5. A dialogue box pops up stating *'A service is available on port 8000'* with three buttons option; 'Make Public', 'Open Preview' and 'Open Browser'. I choose the 'Open Browser' option.
+6. The browser should then be displayed. If not, there should be an option to click stating 'Try again'. Clicking it should open the browser.
 
-
-
-
-
-
-
-
-
+**Please Note:** In the browser bar, it generates this example address: https://8000-dc577278-3d21-42a3-bc02-7aad56761c3f.ws-eu01.gitpod.io/
 
 
 ## Credits & References
---------
+
 I carried out an extensive research as this project had been a challenging but enjoyable one. It had been a productive learning curve too. Please see below, links to sites that contributed to the success of the entire project at every turn. Thank you.
+
+-----
 
 ### Content
 + [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-  + BootstrapCDN [https://getbootstrap.com/docs/4.3/getting-started/download/] [https://www.bootstrapcdn.com/]
-  + Grid System [https://getbootstrap.com/docs/4.0/layout/grid/]
-  + Layout [https://getbootstrap.com/docs/4.0/layout/overview/]
-  + NavBar [https://getbootstrap.com/docs/4.4/components/navbar/]
-  + Modal [https://getbootstrap.com/docs/4.4/components/modal/]
-  + Images [https://getbootstrap.com/docs/4.4/content/images/]
+  + BootstrapCDN: [https://getbootstrap.com/docs/4.3/getting-started/download/] [https://www.bootstrapcdn.com/]
+  + Grid System: [https://getbootstrap.com/docs/4.0/layout/grid/]
+  + Layout: [https://getbootstrap.com/docs/4.0/layout/overview/]
+  + NavBar: [https://getbootstrap.com/docs/4.4/components/navbar/]
+  + Modal: [https://getbootstrap.com/docs/4.4/components/modal/]
+  + Images: [https://getbootstrap.com/docs/4.4/content/images/]
   
 + [Google Fonts](https://fonts.google.com/)
-  + Cookie [https://fonts.google.com/specimen/Cookie?query=cooki]
+  + Cookie: [https://fonts.google.com/specimen/Cookie?query=cooki]
      
 + [Stackoverflow](https://stackoverflow.com/)
-  + Aria Attributes [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes]
-  + Bootstrap Grid [https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap]
-  + Footer [https://stackoverflow.com/questions/19055796/bootstrap-3-floating-footer/19060972]
-  + NavBar [https://stackoverflow.com/questions/31152850/implementing-navigation-drawer-bootstrap]
+  + Aria Attributes: [https://stackoverflow.com/questions/31107040/whats-the-difference-between-html-hidden-and-aria-hidden-attributes]
+  + Bootstrap Grid: [https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap]
+  + Footer: [https://stackoverflow.com/questions/19055796/bootstrap-3-floating-footer/19060972]
+  + NavBar: [https://stackoverflow.com/questions/31152850/implementing-navigation-drawer-bootstrap]
   
 + [W3Schools](https://www.w3schools.com/)
-  + Word-Spacing [https://www.w3schools.com/cssref/pr_text_word-spacing.asp]
-  + Pixel vs Em [https://www.w3schools.com/tags/ref_pxtoemconversion.asp]
-  + Transition [https://www.w3schools.com/cssref/css3_pr_transition-property.asp]
-  + MediaQueries [https://www.w3schools.com/css/css_rwd_mediaqueries.asp]
-  + MediaQueries [https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp]
-  + Overflow [https://www.w3schools.com/cssref/css3_pr_overflow-x.asp]
-  + Font-Weight [https://www.w3schools.com/cssref/pr_font_weight.asp]
+  + Word-Spacing: [https://www.w3schools.com/cssref/pr_text_word-spacing.asp]
+  + Pixel vs Em: [https://www.w3schools.com/tags/ref_pxtoemconversion.asp]
+  + Transition: [https://www.w3schools.com/cssref/css3_pr_transition-property.asp]
+  + MediaQueries: [https://www.w3schools.com/css/css_rwd_mediaqueries.asp]
+  + MediaQueries: [https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp]
+  + Overflow: [https://www.w3schools.com/cssref/css3_pr_overflow-x.asp]
+  + Font-Weight: [https://www.w3schools.com/cssref/pr_font_weight.asp]
   
 + **Tutorials**
-  + Code Institute for HTML, CSS, Bootstrap & UX [https://courses.codeinstitute.net/program/FullstackWebDeveloper]
-  + Kevin Powell for Responsive Navigation Bar [https://www.youtube.com/watch?v=8QKOaTYvYUA]
-  + Coding Passive Income for Modal [https://www.youtube.com/watch?v=cCxcxRw9j_s]
-  + Steve Griffith for GitHub README [https://www.youtube.com/watch?v=eJojC3lSkwg&t=209s]
+  + Code Institute for HTML, CSS, Bootstrap & UX: [https://courses.codeinstitute.net/program/FullstackWebDeveloper]
+  + Kevin Powell for Responsive Navigation Bar: [https://www.youtube.com/watch?v=8QKOaTYvYUA]
+  + Coding Passive Income for Modal: [https://www.youtube.com/watch?v=cCxcxRw9j_s]
+  + Steve Griffith for GitHub README: [https://www.youtube.com/watch?v=eJojC3lSkwg&t=209s]
   
 + **Others**
   + [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines]
@@ -134,7 +144,7 @@ I carried out an extensive research as this project had been a challenging but e
   + [https://fontawesome.com/icons?d=gallery]
    
 ### Media
-Images on the Portfolio page and for my wireframe were from the following:
+Images on the Portfolio page and for my *Wireframes* were from the following:
 + [Madies](http://madies.mx/)
 + [Rino & Pelle](https://www.rino-pelle.com/)
 + [Balsamiq](https://balsamiq.com/)
@@ -144,6 +154,8 @@ I got inspiration for my project from the following:
 + [Code Instute's Project Rosie](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/36e3366dbdaf40fd852994c51f9f8595/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%4036e3366dbdaf40fd852994c51f9f8595)
 + [Devon Stank](https://www.devonstank.com/)
 + [Jim](https://jimramsden.com/#)
+
+Many thanks also to my Mentor **Dick Vlaanderen** for his guidance and support.
 
 
 
